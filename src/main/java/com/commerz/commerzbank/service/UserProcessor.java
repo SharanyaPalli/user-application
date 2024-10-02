@@ -36,6 +36,7 @@ public class UserProcessor {
             return true;
         }
         return false;
+
     }
 
     private void processUser(User user) {
