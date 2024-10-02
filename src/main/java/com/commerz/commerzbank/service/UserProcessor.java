@@ -25,6 +25,7 @@ public class UserProcessor {
                 processUser(user);
             }
         }
+
     }
 
     private boolean acquireLock(User user) {
